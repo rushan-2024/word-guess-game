@@ -16,5 +16,6 @@ Random module
 
 🚀 How to Run
 python main.py
+
 <img width="339" height="339" alt="image" src="https://github.com/user-attachments/assets/f497fbb9-6fbc-40c7-86f9-c22d84720800" />
 
